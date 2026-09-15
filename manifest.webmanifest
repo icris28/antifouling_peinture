@@ -1,0 +1,19 @@
+{
+  "name": "Marine Corail — Conseiller peinture",
+  "short_name": "Marine Corail",
+  "description": "Assistant de choix et de calcul pour antifouling, peintures et résines.",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f7f5ef",
+  "theme_color": "#073a53",
+  "lang": "fr",
+  "orientation": "any",
+  "icons": [
+    {
+      "src": "favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
